@@ -2,6 +2,8 @@
 https://takagotch.github.io/page359/
 
 ```
+// reveal.js
+//
 git clone https://github.com/hakimel/reveal.js
 npm install
 npm start
